@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @saikiran42
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on people who are learning Devops
 - 📫 How to reach me - saikiran.nelakuditi@gmail.com
 
 <!---
